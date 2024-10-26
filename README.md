@@ -1,2 +1,3 @@
-# datamining
-Data Mining Techniques Assignment involved building a hotel recommender system for Expedia.
+Assignment 1: 
+
+Assignment 2: Building a hotel recommender system for Expedia.
