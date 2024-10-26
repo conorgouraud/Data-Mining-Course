@@ -1,2 +1,2 @@
 # datamining
-Repository for the Data Mining Techniques course
+Data Mining Techniques Assignment involved building a hotel recommender system for Expedia.
